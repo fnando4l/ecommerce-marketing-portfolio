@@ -2,6 +2,8 @@
 
 One GitHub portfolio repo containing three React/Vite projects built around ecommerce, Google Ads, UGC/static ads, AI, Shopify, Amazon, and brand operations.
 
+GitHub: https://github.com/fnando4l/ecommerce-marketing-portfolio
+
 These projects are designed to support applications for entry-level corporate roles such as Ecommerce Coordinator, Digital Marketing Coordinator, Paid Media Associate, Marketplace Coordinator, Brand Coordinator, and Growth Marketing Associate.
 
 ## Projects

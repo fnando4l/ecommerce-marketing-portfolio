@@ -2,6 +2,9 @@
 
 This folder is ready to become one GitHub repository with three project folders.
 
+Published repo:
+`https://github.com/fnando4l/ecommerce-marketing-portfolio`
+
 ## Recommended GitHub Repo Name
 
 `ecommerce-marketing-portfolio`

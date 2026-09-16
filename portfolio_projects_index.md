@@ -2,6 +2,9 @@
 
 This portfolio pack turns Fernand's ecommerce, ads, AI, Shopify, Amazon, and brand-building experience into one GitHub-ready portfolio repo with three React project folders.
 
+GitHub repo:
+`https://github.com/fnando4l/ecommerce-marketing-portfolio`
+
 ## Target Roles
 
 - Ecommerce Coordinator
