@@ -1,6 +1,6 @@
-# Ecommerce + Digital Marketing Portfolio Projects
+# Ecommerce + Digital Marketing Tool Portfolio
 
-One GitHub portfolio repo containing three React/Vite projects built around ecommerce, Google Ads, UGC/static ads, AI, Shopify, Amazon, and brand operations.
+One GitHub portfolio repo containing three React/Vite tools built around ecommerce, Google Ads, UGC/static ads, AI, Shopify, Amazon, and brand operations.
 
 GitHub: https://github.com/fnando4l/ecommerce-marketing-portfolio
 
@@ -8,11 +8,11 @@ These projects are designed to support applications for entry-level corporate ro
 
 ## Projects
 
-| Project | What It Shows | Best-Fit Roles |
+| Project | What The Tool Does | Best-Fit Roles |
 | --- | --- | --- |
-| `ecommerce-brand-launch-system` | Shopify/Amazon launch planning, product positioning, listings, launch operations | Ecommerce Coordinator, Marketplace Coordinator, Brand Coordinator |
-| `google-ads-landing-page-plan` | Paid search strategy, keyword intent, ad copy, landing page alignment, reporting | Paid Media Associate, Google Ads Associate, Digital Marketing Coordinator |
-| `ai-ugc-static-ad-creative-system` | AI-assisted creative strategy, UGC scripts, static ads, competitor research, testing | Digital Marketing Coordinator, UGC Creative Strategist Assistant, Paid Social Assistant |
+| `shopify-amazon-listing-optimizer` | Takes product details and generates Shopify copy, Amazon bullets, keyword ideas, and a listing score | Ecommerce Coordinator, Marketplace Coordinator, Brand Coordinator |
+| `google-ads-campaign-planner` | Turns a product, budget, AOV, and target CPA into campaign structure, budget split, keyword groups, ad copy, and KPI targets | Paid Media Associate, Google Ads Associate, Digital Marketing Coordinator |
+| `ai-ugc-ad-creative-generator` | Turns a creative brief into UGC hooks, short-form video script sections, static ad concepts, and a testing matrix | Digital Marketing Coordinator, UGC Creative Strategist Assistant, Paid Social Assistant |
 
 ## Repo Structure
 
@@ -22,9 +22,9 @@ ecommerce-marketing-portfolio/
 |-- GITHUB_SETUP.md
 |-- portfolio_projects_index.md
 |-- package.json
-|-- ecommerce-brand-launch-system/
-|-- google-ads-landing-page-plan/
-`-- ai-ugc-static-ad-creative-system/
+|-- shopify-amazon-listing-optimizer/
+|-- google-ads-campaign-planner/
+`-- ai-ugc-ad-creative-generator/
 ```
 
 Each project folder has its own:
@@ -51,9 +51,9 @@ npm install
 Run a project:
 
 ```bash
-npm run dev:ecommerce
+npm run dev:listing
 npm run dev:google-ads
-npm run dev:ai-ugc
+npm run dev:ugc
 ```
 
 Build all projects:
@@ -64,10 +64,10 @@ npm run build
 
 ## Resume Project Section
 
-- Ecommerce Brand Launch System: Built a launch framework for consumer product brands across Shopify, Amazon, product positioning, listings, pricing, promotional creative, and customer journey planning.
-- Google Ads Campaign + Landing Page Plan: Created a paid search campaign plan with keyword themes, ad copy, audience intent, budget structure, landing page alignment, and conversion tracking recommendations.
-- AI UGC + Static Ad Creative System: Developed an AI-assisted creative workflow for competitor research, UGC hooks, video scripts, static ad concepts, product angles, and creative testing organization.
+- Shopify + Amazon Listing Optimizer: Built a product listing tool that converts product inputs into Shopify product copy, Amazon listing bullets, SEO keyword ideas, optimization checklist items, and a listing score.
+- Google Ads Campaign Planner: Built a paid search planning tool that uses product, budget, average order value, and CPA inputs to generate campaign structure, budget split, keyword groups, ad copy, landing page priorities, and KPI targets.
+- AI UGC Ad Creative Generator: Built a creative strategy tool that turns a product brief into UGC hooks, short-form video script sections, static ad concepts, and a creative testing matrix.
 
 ## Interview Positioning
 
-"My degree is in IT, but my career direction is ecommerce and digital marketing. I have built online store and brand projects using Shopify, Amazon, Google Ads planning, UGC/static ad creative, and AI tools. This portfolio shows how I think through launching products, driving traffic, and creating ad creative for online brands."
+"My degree is in IT, but my career direction is ecommerce and digital marketing. I build practical tools for online brands, including product listing optimization, Google Ads planning, and AI-assisted ad creative generation. This portfolio shows how I think through launching products, driving traffic, and creating ad creative for ecommerce."

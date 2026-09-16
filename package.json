@@ -3,14 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "workspaces": [
-    "ecommerce-brand-launch-system",
-    "google-ads-landing-page-plan",
-    "ai-ugc-static-ad-creative-system"
+    "shopify-amazon-listing-optimizer",
+    "google-ads-campaign-planner",
+    "ai-ugc-ad-creative-generator"
   ],
   "scripts": {
-    "dev:ecommerce": "npm --workspace ecommerce-brand-launch-system run dev",
-    "dev:google-ads": "npm --workspace google-ads-landing-page-plan run dev",
-    "dev:ai-ugc": "npm --workspace ai-ugc-static-ad-creative-system run dev",
+    "dev:listing": "npm --workspace shopify-amazon-listing-optimizer run dev",
+    "dev:google-ads": "npm --workspace google-ads-campaign-planner run dev",
+    "dev:ugc": "npm --workspace ai-ugc-ad-creative-generator run dev",
     "build": "npm --workspaces run build",
     "lint": "npm --workspaces run lint"
   }

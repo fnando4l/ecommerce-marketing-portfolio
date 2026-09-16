@@ -1,6 +1,6 @@
-# Fernand Gbodjo - Ecommerce + Digital Marketing Portfolio Projects
+# Fernand Gbodjo - Ecommerce + Digital Marketing Tool Portfolio
 
-This portfolio pack turns Fernand's ecommerce, ads, AI, Shopify, Amazon, and brand-building experience into one GitHub-ready portfolio repo with three React project folders.
+This portfolio turns Fernand's ecommerce, ads, AI, Shopify, Amazon, and brand-building experience into one GitHub-ready repo with three React tools.
 
 GitHub repo:
 `https://github.com/fnando4l/ecommerce-marketing-portfolio`
@@ -19,32 +19,46 @@ GitHub repo:
 
 ## Top 3 Projects To Show
 
-### 1. Ecommerce Brand Launch System
+### 1. Shopify + Amazon Listing Optimizer
 
 Best for ecommerce, marketplace, brand, and operations roles.
 
-Shows that Fernand can take a product idea and turn it into an online store/marketplace launch plan with product pages, brand positioning, listings, pricing, and customer journey thinking.
+Tool function:
+Takes product name, category, target customer, benefits, and price. Outputs Shopify product page copy, Amazon title/bullets, SEO keyword ideas, an optimization checklist, and a listing score.
 
 Repo folder:
-`output/projects/ecommerce-brand-launch-system/`
+`output/projects/shopify-amazon-listing-optimizer/`
 
-### 2. Google Ads Campaign + Landing Page Plan
+### 2. Google Ads Campaign Planner
 
-Best for paid media, digital marketing, Google Ads, and growth marketing roles.
+Best for paid media, Google Ads, digital marketing, and growth marketing roles.
 
-Shows that Fernand understands how to connect search intent, keywords, ad copy, budgets, landing pages, and conversion tracking.
+Tool function:
+Takes product, monthly budget, average order value, target CPA, and campaign goal. Outputs daily budget, target conversions, ROAS estimate, budget split, keyword groups, ad copy, and landing page priorities.
 
 Repo folder:
-`output/projects/google-ads-landing-page-plan/`
+`output/projects/google-ads-campaign-planner/`
 
-### 3. AI UGC + Static Ad Creative System
+### 3. AI UGC Ad Creative Generator
 
 Best for creative strategy, digital marketing, paid social, UGC, and ecommerce marketing roles.
 
-Shows that Fernand can use AI to research competitors, generate hooks, write UGC scripts, create static ad concepts, and organize creative testing.
+Tool function:
+Takes product, target customer, problem, promise, and platform. Outputs UGC hooks, video script sections, static ad concepts, and a creative testing matrix.
 
 Repo folder:
-`output/projects/ai-ugc-static-ad-creative-system/`
+`output/projects/ai-ugc-ad-creative-generator/`
+
+## Why This Portfolio Works
+
+This portfolio does not position Fernand as a traditional IT candidate or a software engineer. It positions him as a tech-savvy ecommerce and marketing operator who can build simple tools around real business workflows:
+
+- Product listing optimization
+- Marketplace content
+- Paid search planning
+- Landing page thinking
+- UGC and static ad creative
+- AI-assisted marketing workflows
 
 ## Repo Structure
 
@@ -62,32 +76,16 @@ The root repo is `output/projects/`. Each project folder follows the same kind o
 - `postcss.config.js`
 - `eslint.config.js`
 
-`package-lock.json` is intentionally not hand-written. It should be generated after running `npm install` from the root repo.
-
-## What To Add Before Applying
-
-For each project, collect 3-5 screenshots or proof assets:
-
-- Shopify store page, landing page, or mockup
-- Amazon listing, product listing draft, or listing optimization sample
-- Google Ads keyword/campaign plan screenshot
-- Static ad examples
-- UGC script examples
-- AI workflow screenshot or prompt/output example
-- Short Loom/video walkthrough, if possible
-
 ## Resume Project Section
 
 Use this section on the resume:
 
-Selected Ecommerce + Marketing Projects
+Selected Ecommerce + Marketing Tools
 
-- Ecommerce Brand Launch System: Built a launch framework for consumer product brands across Shopify, Amazon, product positioning, listings, pricing, promotional creative, and customer journey planning.
-- Google Ads Campaign + Landing Page Plan: Created a paid search campaign plan with keyword themes, ad copy, audience intent, budget structure, landing page alignment, and conversion tracking recommendations.
-- AI UGC + Static Ad Creative System: Developed an AI-assisted creative workflow for competitor research, UGC hooks, video scripts, static ad concepts, product angles, and creative testing organization.
+- Shopify + Amazon Listing Optimizer: Built a product listing tool that converts ecommerce product inputs into Shopify product copy, Amazon listing bullets, SEO keyword ideas, optimization checklist items, and a listing score.
+- Google Ads Campaign Planner: Built a paid search planning tool that uses product, budget, average order value, and CPA inputs to generate campaign structure, budget split, keyword groups, ad copy, landing page priorities, and KPI targets.
+- AI UGC Ad Creative Generator: Built a creative strategy tool that turns a product brief into UGC hooks, short-form video script sections, static ad concepts, and a creative testing matrix.
 
 ## Interview Positioning
 
-Use this short explanation:
-
-"My degree is in IT, but my career direction is ecommerce and digital marketing. I have built online store and brand projects using Shopify, Amazon, Google Ads planning, UGC/static ad creative, and AI tools. These three portfolio projects show how I think through launching products, driving traffic, and creating ad creative for online brands."
+"My degree is in IT, but my career direction is ecommerce and digital marketing. I build practical tools for online brands, including product listing optimization, Google Ads planning, and AI-assisted ad creative generation. This portfolio shows how I think through launching products, driving traffic, and creating ad creative for ecommerce."
