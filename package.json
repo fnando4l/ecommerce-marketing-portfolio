@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-marketing-portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "workspaces": [
+    "ecommerce-brand-launch-system",
+    "google-ads-landing-page-plan",
+    "ai-ugc-static-ad-creative-system"
+  ],
+  "scripts": {
+    "dev:ecommerce": "npm --workspace ecommerce-brand-launch-system run dev",
+    "dev:google-ads": "npm --workspace google-ads-landing-page-plan run dev",
+    "dev:ai-ugc": "npm --workspace ai-ugc-static-ad-creative-system run dev",
+    "build": "npm --workspaces run build",
+    "lint": "npm --workspaces run lint"
+  }
+}
